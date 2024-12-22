@@ -30,3 +30,9 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 WEBSITE DEPLOYMENT - Follow command lines in the screenshots below. 
+![image](https://github.com/user-attachments/assets/59206a8f-27bc-45ee-9b57-600a4089b04f)
+
+Copy & paste your public IP address on a web browser and the content of your webpage will be displayed. 
+![image](https://github.com/user-attachments/assets/aadc3a03-5d3d-4d16-8eed-d9e940a0ad01)
+
+
